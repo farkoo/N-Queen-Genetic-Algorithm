@@ -27,5 +27,5 @@ In computer science and operations research, a genetic algorithm (GA) is a metah
 ## Our result:
 *8-Queen:*
 **PopSize**     |     **Parent selection**      |     **Crossover**     |       **Mutation**      |     **Survivor selection**
--------------------------------------------------------------------------------------------------------------------------------
+:--------------:|:-----------------------------:|:---------------------:|:-----------------------:|:--------------------------:
 150             |           roulette            |          PMX          |         Inversion       |          Genitor                             
