@@ -6,3 +6,21 @@ In computer science and operations research, a genetic algorithm (GA) is a metah
 
 **In this problem, we want to solve the n queen problem with the help of genetic algorithm.**
 
+## Mutation:
+* Insert
+* Scramble
+* Inversion
+* Swap
+
+## Parent selection:
+* Roulette wheel
+* Ranking
+
+## Crossover
+* PMX
+* Order
+
+## Survivor selection:
+* Genitor
+* m + n
+
