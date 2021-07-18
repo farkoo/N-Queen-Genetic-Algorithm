@@ -51,3 +51,21 @@ In computer science and operations research, a genetic algorithm (GA) is a metah
 1000             |           Ranking            |          PMX          |         Swap       |          Genitor         |      8 ith (296/300)                   
 
 
+
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/farkoo/N-Queen-Genetic-Algorithm/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/farkoo)
+
