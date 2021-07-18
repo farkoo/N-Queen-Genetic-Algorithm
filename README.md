@@ -28,18 +28,26 @@ In computer science and operations research, a genetic algorithm (GA) is a metah
 ### 8-Queen
 **PopSize**     |     **Parent selection**      |     **Crossover**     |       **Mutation**      |     **Survivor selection**| **Result**
 :--------------:|:-----------------------------:|:---------------------:|:-----------------------:|:-------------------------:|:----------:
-150             |           Roulette            |          PMX          |         Inversion       |          Genitor          |      3                    
-50             |           Ranking            |          Order          |         Swap       |          m + n         |      6                    
+150             |           Roulette            |          PMX          |         Inversion       |          Genitor          |      3 ith                   
+50             |           Ranking            |          Order          |         Swap       |          m + n         |      6 ith                    
 
 
 ### 16-Queen
 **PopSize**     |     **Parent selection**      |     **Crossover**     |       **Mutation**      |     **Survivor selection**| **Result**
 :--------------:|:-----------------------------:|:---------------------:|:-----------------------:|:-------------------------:|:----------:
-1000             |           Roulette            |          PMX          |         Inversion       |          Genitor          |      176                    
+1000             |           Roulette            |          PMX          |         Inversion       |          Genitor          |      176 ith                    
+700             |           Ranking            |          PMX          |         Swap       |          Genitor         |      1 ith
+150             |           Ranking            |          Order          |         Scramble       |          m + n          |      73 ith                    
+500             |           Ranking            |          Order          |         Insert       |          m + n         |      5 ith                    
+
+
+### 25-Queen
+**PopSize**     |     **Parent selection**      |     **Crossover**     |       **Mutation**      |     **Survivor selection**| **Result**
 :--------------:|:-----------------------------:|:---------------------:|:-----------------------:|:-------------------------:|:----------:
-700             |           Ranking            |          PMX          |         Swap       |          Genitor         |      1
-:--------------:|:-----------------------------:|:---------------------:|:-----------------------:|:-------------------------:|:----------:
-150             |           Ranking            |          Order          |         Scramble       |          m + n          |      73                    
-:--------------:|:-----------------------------:|:---------------------:|:-----------------------:|:-------------------------:|:----------:
-500             |           Ranking            |          Order          |         Insert       |          m + n         |      5                    
+5000             |           Roulette            |          PMX          |         Insert       |          Genitor          |      457 ith (299/300)                    
+5000             |           Roulette            |          PMX          |         Scramble       |          Genitor         |      631 ith (298/300)
+1000             |           Roulette            |          Order          |         Scramble       |          Genitor          |      182 ith (298/300)                    
+1000             |           Ranking            |          Order          |         Inversion       |          m + n         |      3 ith (297/300)                    
+1000             |           Ranking            |          PMX          |         Swap       |          Genitor         |      8 ith (296/300)                   
+
 
