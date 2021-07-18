@@ -29,7 +29,6 @@ In computer science and operations research, a genetic algorithm (GA) is a metah
 **PopSize**     |     **Parent selection**      |     **Crossover**     |       **Mutation**      |     **Survivor selection**| **Result**
 :--------------:|:-----------------------------:|:---------------------:|:-----------------------:|:-------------------------:|:----------:
 150             |           Roulette            |          PMX          |         Inversion       |          Genitor          |      3                    
-:--------------:|:-----------------------------:|:---------------------:|:-----------------------:|:-------------------------:|:----------:
 50             |           Ranking            |          Order          |         Swap       |          m + n         |      6                    
 
 
